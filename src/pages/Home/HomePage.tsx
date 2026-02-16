@@ -6,7 +6,7 @@ export function HomePage() {
                 <div className="navbar">
                     <Navbar />
                 </div>
-            </div>
+            </div >
         </>
     )
 }
