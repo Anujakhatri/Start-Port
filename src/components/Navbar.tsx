@@ -11,8 +11,6 @@ export function Navbar() {
     return (
         <nav className="navbar">
             <div className="navbar-container">
-                <div className="logo">&lt;Anu /&gt;</div>
-
                 <div className={`menu-icon ${isOpen ? 'active' : ''}`} onClick={toggleMenu}>
                     <div className="bar"></div>
                     <div className="bar"></div>
@@ -28,12 +26,6 @@ export function Navbar() {
                     </li>
                     <li className="nav-item">
                         <a href="#contact" className="nav-link" onClick={toggleMenu}>CONTACT</a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="#login" className="nav-link" onClick={toggleMenu}>LOGIN</a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="#signup" className="nav-link" onClick={toggleMenu}>SIGN UP</a>
                     </li>
                 </ul>
             </div>
