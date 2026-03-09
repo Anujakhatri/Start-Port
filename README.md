@@ -5,8 +5,7 @@ Welcome to my personal portfolio repository! I am a **Full-Stack Developer** and
 ---
 
 ## 🛠️ Tech Stack
-
-I believe in using the right tools for the job. Here’s a breakdown of the technologies I work with:
+Here’s a breakdown of the technologies I work with :
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -18,21 +17,6 @@ I believe in using the right tools for the job. Here’s a breakdown of the tech
 
 ---
 
-## 🌟 Featured Projects
-
-### 📚 **Bookshelf**
-A digital space for managing and organizing your personal library.
-- **Tech**: React, Python, PostgreSQL, Machine Learning, OpenAI API.
-
-### 🛡️ **Custom Rate Limiter**
-A high-performance rate limiter integrated with URL shortening to protect resources.
-- **Tech**: React, Node.js, Express.js, SQLite, BASE62 Encoding.
-
-### ✍️ **LinkedIn Post Generator**
-An AI-powered tool designed to help creators generate engaging content for LinkedIn.
-- **Tech**: Python, Streamlit, LangChain.
-
----
 
 ## 🔒 Authenticity & Social Links
 
