@@ -35,8 +35,8 @@ To run this portfolio locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone [YOUR_REPOSITORY_URL]
-   cd Start-Port
+   git clone [_REPOSITORY_URL]
+   cd repo_name
    ```
 
 2. **Install dependencies**:
